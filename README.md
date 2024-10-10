@@ -1,6 +1,6 @@
 [![Header](https://github.com/SaroyanAram/SaroyanAram/blob/main/assets/header.png)](https://vk.com/hachu_fistashek)
 
-## <center>Hello, my name is Saroyan Aram and I am a junior software engineer</center>
+## <center>Hello, my name is Saroian Aram and I am a junior software engineer</center>
 ___
 ### <center>Languages and tools</center>
 
